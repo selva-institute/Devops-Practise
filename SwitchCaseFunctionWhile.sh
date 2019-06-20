@@ -1,5 +1,5 @@
 #!/bin/bash
-choice=1
+choice=0
 while [ $choice -ne 6 ]
 do
 echo -e "\nArthmetic operation Menu\n1.Addition\n2.Subraction\n3.Multiplication\n4.Division\n5.Reminder\n6.Exit"
